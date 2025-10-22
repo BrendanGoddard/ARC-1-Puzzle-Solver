@@ -7,8 +7,11 @@ Each solver dynamically loads its JSON data, visualizes the grid, and computes t
 
 ## Live Demo
 
+https://arc-1-puzzle-solver.vercel.app/
 
+<img width="1623" height="903" alt="arc-display" src="https://github.com/user-attachments/assets/908aab18-052d-476f-9204-27db57bf3334" />
 ---
+
 
 ## Project Overview
 The ARC benchmark tests *systematic generalization* — how humans and machines infer abstract rules from limited examples.  
