@@ -32,5 +32,3 @@ This project recreates three ARC puzzles entirely by hand-written logic to demon
 
 ---
 
-## 📂 Folder Structure
-
